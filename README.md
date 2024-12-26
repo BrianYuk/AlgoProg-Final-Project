@@ -6,10 +6,10 @@ A remake of the 1993 Doom game in Wolfenstein style. Unlike the original game, t
 - Run the main.py file.
 
 ## Game Controls
-W - Move forward
-A - Move left
-S - Move right
-D - Move backwards
+W - Move forward<br>
+A - Move left<br>
+S - Move right<br>
+D - Move backwards<br>
 
 Left Mouse Button - Fire weapon (I cast GUN prepare to meet GOD)
 Esc button - Quit the game
