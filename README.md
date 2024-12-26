@@ -11,7 +11,7 @@ A - Move left<br>
 S - Move right<br>
 D - Move backwards<br>
 
-Left Mouse Button - Fire weapon (I cast GUN prepare to meet GOD)
+Left Mouse Button - Fire weapon (I cast GUN prepare to meet GOD)<br>
 Esc button - Quit the game
 
 ## Video Demo
